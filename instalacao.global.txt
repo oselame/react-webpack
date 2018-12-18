@@ -1,0 +1,4 @@
+
+npm install -g webpack@1
+
+npm install -g webpack-dev-server@1
